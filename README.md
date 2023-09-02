@@ -1,4 +1,4 @@
-I# IMCAS 2023 Sponsor List Analysis
+# IMCAS 2023 Sponsor List Analysis
 
 ## Project Overview
 This project involves the scraping, analysis, and visualization of the company sponsorship data for the IMCAS 2023 conference, which focuses on the aesthetic and medical device industry. The goal of the project is to answer key questions related to the geographical distribution of sponsors, industry segmentation, sponsorship growth over time, and emerging trends within the aesthetic industry.
@@ -31,21 +31,22 @@ The collected data was cleaned, processed, and analyzed to answer specific quest
 
 
 ## Data Visualization
-Visualization techniques were applied to provide clear insights into the analysis:
 
-Geographical Distribution: Barchart were created to visualize the concentration of sponsors, showing the countries and continents with the highest sponsor counts.
+- Visualization techniques were applied to provide clear insights into the analysis:
 
-Industry Segmentation: Bar charts and pie charts were used to visually represent the distribution of sponsors across different industry segments.
+- Geographical Distribution: Barchart were created to visualize the concentration of sponsors, showing the countries and continents with the highest sponsor counts.
 
-Sponsorship Growth Over Time: Line plots were generated to show how the number of sponsors has changed over the years, along with any shifts in industry preferences.
+- Industry Segmentation: Bar charts and pie charts were used to visually represent the distribution of sponsors across different industry segments.
+
+- Sponsorship Growth Over Time: Line plots were generated to show how the number of sponsors has changed over the years, along with any shifts in industry preferences.
 
 ## Results and Insights
 The analysis and visualizations provided valuable insights:
 
-Geographical Distribution: Identified the countries and continents with the highest sponsorship engagement, indicating regions with a strong interest in the aesthetic market and IMCAS events.
+- Geographical Distribution: Identified the countries and continents with the highest sponsorship engagement, indicating regions with a strong interest in the aesthetic market and IMCAS events.
 
-Industry Segmentation: Revealed the primary industry segments investing in IMCAS, helping to understand the key players in the aesthetic industry.
+- Industry Segmentation: Revealed the primary industry segments investing in IMCAS, helping to understand the key players in the aesthetic industry.
 
-Sponsorship Growth Over Time: Showed trends in sponsor counts and changes in industry preferences over the years, highlighting growth areas and shifts in sponsorship focus.
+- Sponsorship Growth Over Time: Showed trends in sponsor counts and changes in industry preferences over the years, highlighting growth areas and shifts in sponsorship focus.
 
-Emerging Trends: Identified sectors of the aesthetic industry that are experiencing growth or decline in terms of IMCAS involvement, enabling strategic decision-making.
+- Emerging Trends: Identified sectors of the aesthetic industry that are experiencing growth or decline in terms of IMCAS involvement, enabling strategic decision-making.
